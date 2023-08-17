@@ -1,0 +1,3 @@
+create schema testschema create table testtbl (id integer);
+
+https://www.javadrive.jp/postgresql/schema/index2.html
